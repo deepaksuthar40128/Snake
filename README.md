@@ -1,4 +1,7 @@
+
+
+https://github.com/user-attachments/assets/a846ef5c-d4a9-40e7-b080-52cf27bab562
+
 ## Gameplay
 # 🚨🚨🚨🚨🚨 use A,W,S,D keys  🚨🚨🚨🚨
 `g++ -pthread game.cpp` `./a.out`
-https://github.com/deepaksuthar40128/Snake/blob/bdb962427b5b0a01626e8eb0c9cce8f63fe06783/demo.mp4
